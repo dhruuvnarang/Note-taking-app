@@ -1,2 +1,2 @@
 # Note-taking-app
-Created with CodeSandbox
+An app that displays your notes on the screen
